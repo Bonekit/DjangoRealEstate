@@ -130,6 +130,7 @@ Project Link: [Django-Real-Estate](https://github.com/Bonekit/django_real_estate
 * [Python](https://python.org)
 * [othneildrew](https://github.com/othneildrew)
 * [bradtraversy](https://github.com/bradtraversy)
+* [generated.photos](https://generated.photos)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: https://raw.githubusercontent.com/Bonekit/django_real_estate/master/github/images/screenshot.png
