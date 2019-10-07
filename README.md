@@ -88,7 +88,6 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
-`
 
 <!-- USAGE EXAMPLES -->
 ## Usage
