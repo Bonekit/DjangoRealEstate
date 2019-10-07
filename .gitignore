@@ -1,5 +1,4 @@
 venv
-.vscode
 /real_estate/db.sqlite3
 *DS_Store
 *.idea
